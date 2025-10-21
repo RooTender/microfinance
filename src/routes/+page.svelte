@@ -1,10 +1,10 @@
 <script lang="ts">
-	import Dashboard from "./dashboard/+page.svelte";
+	import Overview from "./dashboard/Overview.svelte";
+    import Transactions from "./dashboard/Transactions.svelte";
 </script>
 
 <main>
-	<Dashboard />
+	<Overview/>
+	<Transactions/>
+	<Transactions/>
 </main>
-
-<style>
-</style>

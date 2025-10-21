@@ -1,3 +1,3 @@
-<main>
-	<h1>Overview</h1>
+<main class="flex justify-center items-center min-h-screen">
+  Hello UnoCSS!
 </main>
