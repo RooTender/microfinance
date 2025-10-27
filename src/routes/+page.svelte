@@ -4,7 +4,8 @@
 </script>
 
 <main>
-	<Overview/>
-	<Transactions/>
-	<Transactions/>
+    <Overview/>
+    <Transactions type="incomes"/>
+    <Transactions type="expenses"/>
+    <Transactions type="both"/>
 </main>
